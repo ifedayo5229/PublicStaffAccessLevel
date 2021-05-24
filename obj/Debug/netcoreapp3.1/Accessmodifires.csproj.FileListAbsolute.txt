@@ -1,0 +1,13 @@
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\bin\Debug\netcoreapp3.1\Accessmodifires.exe
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\bin\Debug\netcoreapp3.1\Accessmodifires.deps.json
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\bin\Debug\netcoreapp3.1\Accessmodifires.runtimeconfig.json
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\bin\Debug\netcoreapp3.1\Accessmodifires.runtimeconfig.dev.json
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\bin\Debug\netcoreapp3.1\Accessmodifires.dll
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\bin\Debug\netcoreapp3.1\Accessmodifires.pdb
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\obj\Debug\netcoreapp3.1\Accessmodifires.csprojAssemblyReference.cache
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\obj\Debug\netcoreapp3.1\Accessmodifires.AssemblyInfoInputs.cache
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\obj\Debug\netcoreapp3.1\Accessmodifires.AssemblyInfo.cs
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\obj\Debug\netcoreapp3.1\Accessmodifires.csproj.CoreCompileInputs.cache
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\obj\Debug\netcoreapp3.1\Accessmodifires.dll
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\obj\Debug\netcoreapp3.1\Accessmodifires.pdb
+C:\Users\Ifedayo\Documents\week7\Accessmodifires\obj\Debug\netcoreapp3.1\Accessmodifires.genruntimeconfig.cache
